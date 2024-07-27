@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Protest+Riot&display=swap');
+*{
+    font-family: "Ga Maamli", sans-serif;
+}
+
+body {
+padding: 0;
+margin: 0;
+
+}
+
+
+
+.main{
+    height: 200vh;
+    width: 100vw;
+    /* overflow: scroll; */
+    background-color: rgb(141, 129, 194);
+    flex-direction: row;
+    display: flex;
+    /* justify-content: center; */
+    gap: 5%;
+    flex-direction: column;
+    row-gap: 0%;
+    
+}
+
+.div4
+{
+    display: flex;
+    width: 100%;
+    height: 20%;
+    justify-content: center;
+    gap: 4%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+
+    
+}
+
+.div5
+{
+    width: 22%;
+    height: 70%;
+    background-color: rgb(255, 255, 255);
+    /* margin-top: 2%; */
+    padding-top: .5%;
+    padding-left: .5%;
+    padding-right: .5%;
+    padding-bottom: 4%;
+    border-radius: 2.5%;
+    
+}
+
+.div6
+{
+    width: 25%;
+    height: 60%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 4%;
+    /* margin-left: 5%; */
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 4%;
+    justify-content: center;
+    border-radius: 3%;
+}

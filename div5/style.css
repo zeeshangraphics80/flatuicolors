@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+body {
+padding: 0;
+margin: 0;
+}
+
+.main{
+    height: 200vh;
+    width: 100vw;
+    overflow: scroll;
+    /* flex-direction: row; */
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.div1{
+display: flex;
+height: 3%;
+background-color: #FFFFFF;
+justify-content: space-between;
+text-decoration: none;
+align-items: center;
+}
+
+
+
+/* .left{
+    display: flex;
+    width: 50%;
+    height: 5%;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: white;
+    border: 1px black solid;
+    
+    
+
+}
+
+.right{
+    display: flex;
+    width: 50%;
+    height: 5%;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    border: 1px black solid;
+
+    
+} */
+
+.div2
+{
+    display: flex;
+    width: 100%;
+    height: 11%;
+       
+}
+
+.div3
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(246, 229, 141);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div4
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(255, 190, 118);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div5
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(255, 121, 121);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div6
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(186, 220, 88);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div7
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(223, 249, 251);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div8
+{
+    display: flex;
+    width: 100%;
+    height: 11%;
+       
+}
+
+.div9
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(249, 202, 36);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div10
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(240, 147, 43);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div11
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(235, 77, 75);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div12
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(106, 176, 76);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div13
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(199, 236, 238);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div14
+{
+    display: flex;
+    width: 100%;
+    height: 11%;
+       
+}
+
+.div15
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color:rgb(126, 214, 223);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div16
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(224, 86, 253);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div17
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(104, 109, 224);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div18
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color:rgb(48, 51, 107);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div19
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color:rgb(149, 175, 192);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+
+.div20
+{
+    display: flex;
+    width: 100%;
+    height: 11%;
+       
+}
+
+.div21
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color:rgb(34, 166, 179);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+    
+}
+
+.div22
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(190, 46, 221);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div23
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color:rgb(72, 52, 212);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div24
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color:rgb(19, 15, 64);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
+
+.div25
+{
+    display: flex;
+    width: 20%;
+    height: 98%;
+    background-color: rgb(83, 92, 104);
+    color: white;
+    align-items: flex-end; 
+    justify-content: flex-end;
+    padding-bottom:.2% ;
+    padding-right: .3%;
+}
